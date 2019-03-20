@@ -1,20 +1,6 @@
-#include <cstdio>
 #include <iostream>
-#include <sstream>
-#include <utility>
 #include <vector>
-#include <stack>
-#include <list>
-#include <set>
-#include <map>
-#include <queue>
-#include <array>
-#include <ctime>
-#include <cstdlib>
-#include <cstring>
-#include <cmath>
-#include <cctype>
-#include <algorithm>
+#include <string>
 
 using namespace std;
 
